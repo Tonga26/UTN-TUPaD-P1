@@ -18,3 +18,5 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 > 
 > ¡Recuerda mantener actualizado tu repositorio!
 
+LINK DEL VIDEO DEL TRABAJO PRÁCTICO INTEGRADOR: https://youtu.be/uS-2eWz8fT0
+
